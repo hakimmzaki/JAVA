@@ -1,5 +1,6 @@
 [Java Programming for Complete Beginners | Udemy](https://www.udemy.com/course/java-programming-tutorial-for-beginners/)
 [[Exercises]] 
+test with some update
 Java installed on C:\\Program Files\\Java
 This tutor is teaching java using [[Eclipse JAVA IDE]].
 ### Good Java Practices
